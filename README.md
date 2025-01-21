@@ -1,7 +1,9 @@
 # rag-llm-pdfdocumentquestionanswering
 This repository contains a Streamlit web application that allows users to upload PDF documents and ask questions based on the content of the document. The application uses the LangChain library, OpenAI GPT-4, and Chroma for document retrieval and question answering.
-![Uploading Ekran Resmi 2025-01-21 23.32.11.png…]()
-![Uploading Ekran Resmi 2025-01-21 23.32.26.png…]()
+<img width="1472" alt="Ekran Resmi 2025-01-21 23 32 11" src="https://github.com/user-attachments/assets/53b8916b-f82b-47b1-a3bc-1dd2122a7344" />
+<img width="1489" alt="Ekran Resmi 2025-01-21 23 32 26" src="https://github.com/user-attachments/assets/1af5ec6f-bb45-4ec5-bd52-40d53b98e3bd" />
+
+
 
 
 
